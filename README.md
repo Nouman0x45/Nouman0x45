@@ -53,6 +53,6 @@
 <a href="https://www.kaggle.com/nouman0x45"><img src="https://img.shields.io/badge/-@nouman0x45-1877F2?style=flat&logo=kaggle&logoColor=white"/></a>
 
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nouman0x45&show_icons=true&locale=en&layout=compact" alt="nouman0x45" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheNoumanDev&show_icons=true&locale=en&layout=compact" alt="TheNoumanDev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nouman0x45&show_icons=true&locale=en" alt="nouman0x45" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheNoumanDev&show_icons=true&locale=en" alt="TheNoumanDev" /></p>
