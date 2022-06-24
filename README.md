@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a **Jr. Year CS Undergrad at the University of Engineering & Technology Lahore🎓**
 
-- 🌱 I’m currently expanding my knowledge in MERN Stack.
+- 🌱 I’m currently expanding my knowledge in Mobile development.
 
 - 🥅 2022 Goals: Learning new technologies and gaining exposure.
 
