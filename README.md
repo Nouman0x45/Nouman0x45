@@ -66,5 +66,3 @@
 
   
 
-    
-[![@thenoumandev's Holopin board](https://holopin.me/thenoumandev)](https://holopin.io/@thenoumandev)
