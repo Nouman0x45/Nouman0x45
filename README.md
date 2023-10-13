@@ -28,10 +28,10 @@
   </td>
     <td align='center' width="190">
    <a href="https://firebase.google.com/docs" target="_blank"> <img src="https://th.bing.com/th/id/R.ae2023f3cf5939e3d20136f1f9b5e751?rik=Q8%2fmmF6Mb%2fdbZg&pid=ImgRaw&r=0" alt="cplusplus" width="60" /> </a> 
-  </td>
-     <td align='center' width="190">
-   <a href="https://unity.com/" target="_blank"> <img src="https://sites.google.com/site/disasterbot0101/_/rsrc/1485964557488/game-design---semester-2/05---intro-to-unity/unity-logo-white-shadow.png" alt="cplusplus" width="60" /> </a> 
-  </td>
+    </td>
+  <td align='center' width="190">
+        <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60"/> </a> 
+    </td>
     <td align='center' width="190">
    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" /> </a> 
   </td>
@@ -56,8 +56,7 @@
     <td align='center' width="190">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60"/> </a>
     </td>
-    <td align='center' width="190">
-        <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60"/> </a> 
+    
     
 </tr>
   </table>
