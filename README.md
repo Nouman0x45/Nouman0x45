@@ -71,10 +71,12 @@
 <a href="https://www.facebook.com/nouman0x45"><img src="https://img.shields.io/badge/-@nouman0x45-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.kaggle.com/nouman0x45"><img src="https://img.shields.io/badge/-@nouman0x45-1877F2?style=flat&logo=kaggle&logoColor=white"/></a>
 
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheNoumanDev&show_icons=true&locale=en&layout=compact" alt="TheNoumanDev" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=TheNoumanDev&show_icons=true&locale=en" alt="TheNoumanDev" /></p>
+ <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=TheNoumanDev&show_icons=true&locale=en" alt="TheNoumanDev" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheNoumanDev&show_icons=true&locale=en&layout=compact" alt="TheNoumanDev" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TheNoumanDev)](https://git.io/streak-stats)
 
 
   
