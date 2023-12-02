@@ -73,7 +73,7 @@
 
  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=TheNoumanDev&show_icons=true&locale=en" alt="TheNoumanDev" /></p>
 
-[<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheNoumanDev&show_icons=true&locale=en&layout=compact" alt="TheNoumanDev" /></p>](https://api.githubtrends.io/user/svg/TheNoumanDev/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark)[https://api.githubtrends.io/user/svg/TheNoumanDev/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark]
+[<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheNoumanDev&show_icons=true&locale=en&layout=compact" alt="TheNoumanDev" /></p>](https://api.githubtrends.io/user/svg/TheNoumanDev/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TheNoumanDev)](https://git.io/streak-stats)
 
