@@ -6,14 +6,15 @@
 
 
 
-- 🔭 I’m currently a **3rd year student at the University of Engineering & Technology Lahore🎓**
+- 🔭 I’m currently a **CS Major Graduate from UET Lahore🎓**
 
 - 🌱 I’m currently expanding my knowledge in Mobile development.
 
-- 🥅 2023 Goals: Learning new technologies and gaining exposure.
+- 🥅 2024 Goals: Learning new technologies and gaining exposure.
 
 - ⚡ Fun fact **Love Watching Anime.**
 
+[![](https://visitcount.itsvg.in/api?id=thenoumandev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <h2><i>💻 Tech Stack</i></h2>
@@ -77,6 +78,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TheNoumanDev)](https://git.io/streak-stats)
 
-
-  
 
